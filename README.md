@@ -1,4 +1,4 @@
-# ⚡️ StudyGenie: Your Ultimate Study Assistant 📚
+# 🧠👀 StudyGenie: Your Ultimate Study Assistant 📚
 
 -----
 **StudyGenie** is an AI-powered personal study assistant that helps students with summarizing notes, explaining complex topics, generating practice questions, and more. Built using **Streamlit** and **Langchain**, StudyGenie provides a range of study-related tools to improve learning efficiency and productivity.
